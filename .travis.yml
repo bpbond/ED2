@@ -12,3 +12,4 @@ script:
     - pwd
     - cd ED/build/
     - ./install.sh -k C -p travisci -g
+    - ls
